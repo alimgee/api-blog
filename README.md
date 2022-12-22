@@ -1,0 +1,1 @@
+DRF custom user usgae based off https://dev.to/documatic/build-a-blog-api-with-jwt-authentication-using-django-rest-framework-3718
